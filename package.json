@@ -1,0 +1,9 @@
+{
+    "name": "genshin_impact_auto_electron",
+    "version": "1.0.0",
+    "author": "Can",
+    "description": "Genshin Start!",
+    "main": "main.js",
+    "dependencies": {},
+    "devDependencies": {}
+}
